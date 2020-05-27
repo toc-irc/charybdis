@@ -1,5 +1,5 @@
 # Ubuntu 18.04 LTS install
-* sudo apt-get install -y libtool m4 automake bison flex hashalot
+* sudo apt-get install -y libtool m4 automake bison flex build-essential git libssl-dev certbot python-certbot-nginx
 * sudo su ircd
 * git clone https://github.com/charybdis-ircd/charybdis.git
 * cd charybdis
